@@ -1,1 +1,5 @@
 
+
+
+def SetLibraryPolicy(string):
+    pass
